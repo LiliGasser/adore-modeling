@@ -1,7 +1,7 @@
 {
   "@renku_data_type": "renku.domain_model.project.Project",
   "@renku_oid": "project",
-  "agent_version": "2.8.0",
+  "agent_version": "2.9.2",
   "annotations": [],
   "creator": {
     "@renku_data_type": "renku.domain_model.provenance.agent.Person",
@@ -27,12 +27,12 @@
     "@renku_data_type": "renku.domain_model.project.ProjectTemplateMetadata",
     "@renku_data_value": {
       "immutable_template_files": [],
-      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.7.1\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"mltox\", \"__repository__\": \"https://gitlab.renkulab.io\", \"__sanitized_project_name__\": \"adore-modeling\", \"__project_slug__\": \"mltox/adore-modeling\", \"__project_description__\": \"How to use ADORE for modeling.\", \"__renku_version__\": \"2.8.0\", \"name\": \"adore-modeling\", \"__name__\": \"adore-modeling\", \"__template_version__\": \"2e6af43c4bab1d97ac0fef947c118a49fdfbf7bc\", \"__automated_update__\": true}",
+      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.9.0\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"mltox\", \"__repository__\": \"https://gitlab.renkulab.io\", \"__sanitized_project_name__\": \"adore-modeling\", \"__project_slug__\": \"mltox/adore-modeling\", \"__project_description__\": \"How to use ADORE for modeling.\", \"__renku_version__\": \"2.8.2.dev13+g7d5dd086\", \"name\": \"adore-modeling\", \"__name__\": \"adore-modeling\", \"__template_version__\": \"c61f354efda7729cad3e8073be9c39019b8342e4\", \"__automated_update__\": true}",
       "ssh_supported": true,
       "template_id": "python-minimal",
-      "template_ref": "0.7.1",
+      "template_ref": "0.9.0",
       "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
-      "template_version": "2e6af43c4bab1d97ac0fef947c118a49fdfbf7bc"
+      "template_version": "c61f354efda7729cad3e8073be9c39019b8342e4"
     }
   },
   "version": 10
